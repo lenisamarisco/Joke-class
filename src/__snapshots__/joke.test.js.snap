@@ -1,0 +1,30 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Joke Component renders correctly with given props 1`] = `
+<div>
+  <div
+    class="Joke"
+  >
+    <div
+      class="Joke-votearea"
+    >
+      <button>
+        <i
+          class="fas fa-thumbs-up"
+        />
+      </button>
+      <button>
+        <i
+          class="fas fa-thumbs-down"
+        />
+      </button>
+      5
+    </div>
+    <div
+      class="Joke-text"
+    >
+      Funny joke text
+    </div>
+  </div>
+</div>
+`;
